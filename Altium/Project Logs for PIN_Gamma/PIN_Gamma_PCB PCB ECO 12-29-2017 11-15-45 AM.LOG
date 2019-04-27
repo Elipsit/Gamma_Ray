@@ -1,0 +1,3 @@
+Change Component Library : Designator=R1 Old Library=Kyle_Integrated_Library.IntLib New Library=Kyle_Sch_Lib.SchLib
+Change Component Library : Designator=R4 Old Library=Kyle_Integrated_Library.IntLib New Library=Kyle_Sch_Lib.SchLib
+Added Pin To Net: NetName=NetC7_2 Pin=R6-1

@@ -1,0 +1,42 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=D4(D/0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1423-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(D/0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1423-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(D/0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "160-1427-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "311-1.0KGRCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "311-287HRCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "311-287HRCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=12V Pin=R21-1
+Added Pin To Net: NetName=5V Pin=R22-1
+Added Pin To Net: NetName=CompOut Pin=R23-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R21-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R22-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R23-2
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=PIN_Gamma_Power Member=Component D4 D/LEDG/0805
+Added Member To Class: ClassName=PIN_Gamma_Power Member=Component D5 D/LEDG/0805
+Added Member To Class: ClassName=PIN_Gamma_Power Member=Component D6 D/LEDR/0805
+Added Member To Class: ClassName=PIN_Gamma_Power Member=Component R21 R/1K/0603
+Added Member To Class: ClassName=PIN_Gamma_Power Member=Component R22 R/287r/0603
+Added Member To Class: ClassName=PIN_Gamma_Power Member=Component R23 R/287r/0603
+Added Room: Name=PIN_Gamma
+Added Room: Name=PIN_Gamma_Power

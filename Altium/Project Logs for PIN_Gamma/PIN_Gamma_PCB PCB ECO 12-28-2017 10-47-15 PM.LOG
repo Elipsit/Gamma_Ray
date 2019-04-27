@@ -1,0 +1,23 @@
+Change Component Library : Designator=S1 Old Library=Kyle_Integrated_Library.IntLib New Library=Kyle_Sch_Lib.SchLib
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S1-5
+Added Pin To Net: NetName=GND Pin=S1-6
+Added Pin To Net: NetName=GND Pin=S1-7
+Added Pin To Net: NetName=GND Pin=S1-8
+Added Pin To Net: NetName=GND Pin=S1-9
+Added Pin To Net: NetName=GND Pin=S1-10
+Added Pin To Net: NetName=GND Pin=S1-11
+Added Pin To Net: NetName=GND Pin=S1-12
+Added Pin To Net: NetName=GND Pin=S1-13
+Added Pin To Net: NetName=GND Pin=S1-14
+Added Pin To Net: NetName=GND Pin=S1-15
+Added Pin To Net: NetName=GND Pin=S1-16
+Added Pin To Net: NetName=GND Pin=S1-17
+Added Pin To Net: NetName=GND Pin=S1-18
+Added Pin To Net: NetName=GND Pin=S1-19
+Added Pin To Net: NetName=GND Pin=S1-20
+Added Room: Name=PIN_Gamma
+Added Room: Name=PIN_Gamma_Power

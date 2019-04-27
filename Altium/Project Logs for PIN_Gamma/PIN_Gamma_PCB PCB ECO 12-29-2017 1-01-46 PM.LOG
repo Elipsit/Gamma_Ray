@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CompOut Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Net: Name=NetR16_1
+Added Room: Name=PIN_Gamma
+Added Room: Name=PIN_Gamma_Power

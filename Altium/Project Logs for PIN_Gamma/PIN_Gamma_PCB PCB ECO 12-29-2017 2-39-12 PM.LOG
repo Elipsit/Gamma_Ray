@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C17 Old Footprint=R/0805 New Footprint=C/0603
+Change Component Comment : Designator=C17 Old Comment=C/4U7/0805 New Comment=C/1U/0603
+Added Room: Name=PIN_Gamma
+Added Room: Name=PIN_Gamma_Power

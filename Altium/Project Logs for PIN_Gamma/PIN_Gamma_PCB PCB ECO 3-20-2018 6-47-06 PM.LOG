@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=12V Pin=ST1-2
+Removed Pin From Net: NetName=5V Pin=ST2-2
+Removed Member From Class: ClassName=PIN_Gamma_Power Member=ST1
+Removed Member From Class: ClassName=PIN_Gamma_Power Member=ST2
+Added Pin To Net: NetName=12V Pin=C15-2
+Added Pin To Net: NetName=12V Pin=C16-1
+Added Pin To Net: NetName=5V Pin=C18-1
+Added Pin To Net: NetName=12V Pin=D3-1
+Added Pin To Net: NetName=12V Pin=R12-1
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Room: Name=PIN_Gamma
+Added Room: Name=PIN_Gamma_Power

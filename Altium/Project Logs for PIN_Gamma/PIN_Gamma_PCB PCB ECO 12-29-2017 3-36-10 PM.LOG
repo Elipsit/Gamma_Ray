@@ -1,0 +1,22 @@
+Added Component: Designator=R7(R/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "311-100KHRCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "311-150KGRDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=RV1(10K/25TN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Part"; Value = "A105870-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=IN+ Pin=R7-2
+Added Pin To Net: NetName=NetC13_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=IN+ Pin=RV1-1
+Added Pin To Net: NetName=NetRV1_3 Pin=RV1-2
+Added Pin To Net: NetName=NetC13_1 Pin=RV1-3
+Change Net Name : Old Net Name=NetRV1_3 New Net Name=NetRV1_2
+Added Member To Class: ClassName=PIN_Gamma Member=Component R7 R/100K/0603
+Added Member To Class: ClassName=PIN_Gamma Member=Component R10 R/150K/0603
+Added Member To Class: ClassName=PIN_Gamma Member=Component RV1 RV/10K/25Turn
+Added Room: Name=PIN_Gamma
+Added Room: Name=PIN_Gamma_Power
