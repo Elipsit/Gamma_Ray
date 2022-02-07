@@ -10,4 +10,6 @@ The project was successful and when the comparator setpoint was set correctly it
 
 ![Bottom Pic](https://github.com/Elipsit/Gamma_Ray/blob/master/pics/Gamma_Ray_Bottom.jpg)
 
-![Top](https://github.com/Elipsit/Gamma_Ray/blob/master/pics/Gamma_Ray_Top.jpg0
+![Top](https://github.com/Elipsit/Gamma_Ray/blob/master/pics/Gamma_Ray_Top.jpg)
+
+![draftsmen](https://github.com/Elipsit/Gamma_Ray/blob/master/pics/Draftsmen.png)
