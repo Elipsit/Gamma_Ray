@@ -1,3 +1,3 @@
-Record=TopLevelDocument|FileName=PIN_Gamma_Topsheet.SchDoc
-Record=SheetSymbol|SourceDocument=PIN_Gamma_Topsheet.SchDoc|Designator=U_PIN_Gamma|SchDesignator=U_PIN_Gamma|FileName=PIN_Gamma.SchDoc|SymbolType=Normal|RawFileName=PIN_Gamma.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=PIN_Gamma_Topsheet.SchDoc|Designator=U_PIN_Gamma_Power|SchDesignator=U_PIN_Gamma_Power|FileName=PIN_Gamma_Power.SchDoc|SymbolType=Normal|RawFileName=PIN_Gamma_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=PIN_Gamma_Topsheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=PIN_Gamma_Topsheet.SchDoc|Designator=U_PIN_Gamma|SchDesignator=U_PIN_Gamma|FileName=PIN_Gamma.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PIN_Gamma.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PIN_Gamma_Topsheet.SchDoc|Designator=U_PIN_Gamma_Power|SchDesignator=U_PIN_Gamma_Power|FileName=PIN_Gamma_Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PIN_Gamma_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
