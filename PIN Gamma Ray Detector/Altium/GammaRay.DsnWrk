@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD17\Library\0_Kyle_Lib\SC_Library\SC_Library.LibPkg
+[Project2]
+ProjectPath=PIN_Gamma.PrjPcb
